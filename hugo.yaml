@@ -1,6 +1,24 @@
 baseURL: https://kylehardinge.com/
 languageCode: en-us
 params:
-  subtitle: Some cool stuff
+  profileMode:
+    enabled: true
+    title: "Kyle Hardinge" # optional default will be site title
+    subtitle: "CS Student"
+    imageUrl: "kyle-cover.jpeg" # optional
+    imageTitle: "Kyle Hardinge" # optional
+    imageWidth: 120 # custom size
+    imageHeight: 120 # custom size
+    buttons:
+      - name: Blog
+        url: "/blog"
+      - name: Projects
+        url: "/projects"
+      - name: Cool Photos
+        url: "/photos"
+
+  socialIcons: # optional
+    - name: "github"
+      url: "https://github.com/kylehardinge"
 title: Kyle Hardinge
 theme: ["PaperMod"]
