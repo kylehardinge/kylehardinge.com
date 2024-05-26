@@ -1,0 +1,6 @@
+baseURL: https://kylehardinge.com/
+languageCode: en-us
+params:
+  subtitle: Some cool stuff
+title: Kyle Hardinge
+theme: ["PaperMod"]
