@@ -5,4 +5,4 @@ draft = false
 +++
 
 # Hello World!
-this is hugo
+More better content coming soon. I have way too many side projects and someday i will add more content but be patient.
