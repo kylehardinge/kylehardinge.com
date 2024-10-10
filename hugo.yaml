@@ -20,5 +20,7 @@ params:
   socialIcons: # optional
     - name: "github"
       url: "https://github.com/kylehardinge"
+    - name: "linkedin"
+      url: "https://linkedin.com/in/kylehardinge"
 title: Kyle Hardinge
 theme: ["PaperMod"]
