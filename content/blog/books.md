@@ -1,7 +1,7 @@
 +++
 title = 'So, You Want a Book to Read?'
 date = 2026-04-15T21:22:14-04:00
-draft = true
+draft = false
 +++
 
 Are you looking for a new book to read? Here are a few of my favorites I have listened to or read.
